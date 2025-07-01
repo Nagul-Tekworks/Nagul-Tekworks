@@ -50,10 +50,6 @@ I’m passionate about building scalable applications and shaping future tech pr
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
-### 📈 GitHub Stats
-
-![Nagul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagul-Tekworks&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagul-Tekworks&layout=compact&theme=react)
 ### 📚 Highlights
 
 - 👨‍💻 Mentored 1000+ students and developers via structured L&D programs.
@@ -67,11 +63,10 @@ I’m passionate about building scalable applications and shaping future tech pr
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile/)
 - 📧 Email: sa.nagulmeera@gmail.com
-🚀 Project Manager | Learning & Development | Tech Enthusiast
+-🚀 Project Manager | Learning & Development | Tech Enthusiast
 
 - 🔭 Working on AI-based applicant tracking
 - 🌱 Learning: Machine Learning, React, Supabase
 - 📫 Reach me via LinkedIn above
 ---
 
-⚡ *"Build. Learn. Mentor. Repeat."*
