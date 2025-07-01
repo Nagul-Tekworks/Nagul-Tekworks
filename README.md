@@ -1,4 +1,6 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nagul-Tekworks.Nagul-Tekworks)
+![Page Views](https://komarev.com/ghpvc/?username=Nagul-Tekworks&style=flat-square)
+
 
 ## 👋 Hi there, I'm Nagul Meera Shaik
 
