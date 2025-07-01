@@ -65,7 +65,7 @@ I’m passionate about building scalable applications and shaping future tech pr
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nagul)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile/)
 - 📧 Email: nagul.tekworks@gmail.com
 
 ---
