@@ -48,7 +48,10 @@ I’m passionate about building scalable applications and shaping future tech pr
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
+### 📈 GitHub Stats
 
+![Nagul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagul-Tekworks&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagul-Tekworks&layout=compact&theme=react)
 ### 📚 Highlights
 
 - 👨‍💻 Mentored 1000+ students and developers via structured L&D programs.
