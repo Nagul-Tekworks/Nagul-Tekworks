@@ -26,7 +26,11 @@ I’m passionate about building scalable applications and shaping future tech pr
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **Backend:** Spring Boot, REST APIs, JPA, Microservices, Node.js
+**🖥 Backend:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 - **Frontend:** HTML, CSS, JavaScript, React, React Native, Next.js
 - **Databases:** PostgreSQL, MySQL, Firebase, Supabase
 - **Tools:** GitHub, JIRA, Postman, Swagger, Docker
