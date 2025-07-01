@@ -1,3 +1,5 @@
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Nagul-Tekworks.Nagul-Tekworks)
+
 ## 👋 Hi there, I'm Nagul Meera Shaik
 
 ### 🚀 Technical Lead | Learning & Development Manager | Mentor
