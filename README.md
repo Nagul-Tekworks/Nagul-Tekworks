@@ -67,7 +67,11 @@ I’m passionate about building scalable applications and shaping future tech pr
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile/)
 - 📧 Email: sa.nagulmeera@gmail.com
+🚀 Project Manager | Learning & Development | Tech Enthusiast
 
+- 🔭 Working on AI-based applicant tracking
+- 🌱 Learning: Machine Learning, React, Supabase
+- 📫 Reach me via LinkedIn above
 ---
 
 ⚡ *"Build. Learn. Mentor. Repeat."*
